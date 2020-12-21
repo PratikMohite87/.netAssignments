@@ -1,0 +1,15 @@
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.exe.config
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.exe
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\bin\Debug\WpfAppPractice.pdb
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csprojAssemblyReference.cache
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\MainWindow.g.cs
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\App.g.cs
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice_MarkupCompile.cache
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice_MarkupCompile.lref
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\MainWindow.baml
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.g.resources
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.Properties.Resources.resources
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.GenerateResource.cache
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.csproj.CoreCompileInputs.cache
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.exe
+C:\Users\Pratik\Documents\CDACFEB-2020\.NET\codes\WpfAppPractice\WpfAppPractice\obj\Debug\WpfAppPractice.pdb

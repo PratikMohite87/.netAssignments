@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfAppPractice.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppPractice"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lbDisplay1" HorizontalAlignment="Left" Height="352" Margin="33,33,0,0" VerticalAlignment="Top" Width="275" SelectionMode="Multiple"/>
+        <ListBox x:Name="lbDisplay2" HorizontalAlignment="Left" Height="352" Margin="475,33,0,0" VerticalAlignment="Top" Width="275"/>
+        <Button x:Name="btnForwardOne" Content="&gt;" HorizontalAlignment="Left" Margin="358,126,0,0" VerticalAlignment="Top" Width="75" Height="43" FontSize="20" Click="btnForwardOne_Click"/>
+        <Button x:Name="btnForwardMultiple" Content="&gt;&gt;" HorizontalAlignment="Left" Margin="358,206,0,0" VerticalAlignment="Top" Width="75" Height="43" FontSize="20" Click="btnForwardMultiple_Click"/>
+        <Button x:Name="btnBackwardOne" Content="&lt;&lt;" HorizontalAlignment="Left" Margin="358,281,0,0" VerticalAlignment="Top" Width="75" Height="43" FontSize="20" RenderTransformOrigin="0.678,3.511" Click="btnBackwardOne_Click"/>
+        <Button x:Name="btnBackwardMultiple" Content="&gt;" HorizontalAlignment="Left" Margin="358,355,0,0" VerticalAlignment="Top" Width="75" Height="43" FontSize="20" Click="btnBackwardMultiple_Click"/>
+        <Button x:Name="btnGet" Content="GET" HorizontalAlignment="Left" Margin="358,52,0,0" VerticalAlignment="Top" Width="75" Height="43" FontSize="20" RenderTransformOrigin="0.452,-0.969" Click="btnGet_Click"/>
+
+    </Grid>
+</Window>
