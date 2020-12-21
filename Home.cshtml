@@ -1,0 +1,27 @@
+﻿@model CRUD_ASP.NET_App2.Models.UserDetails
+
+@{
+    ViewBag.Title = "Home";
+}
+
+@if (ViewBag.User != null)
+{
+    @:<h2>Welcome @ViewBag.User.UserId</h2>
+    @:<h2>Welcome @ViewBag.User.UserLoginName</h2>
+}
+else
+{
+    @:<h2>Not LoggedIn</h2>
+}
+
+@if (ViewBag.User != null)
+{
+    @:<div>@Html.Partial("PartialLogout")</div>
+}
+
+<br />
+
+@if (ViewBag.User != null)
+{
+    @:<div>@Html.ActionLink("View Details", "Details")</div>
+}

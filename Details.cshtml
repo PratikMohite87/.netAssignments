@@ -1,0 +1,66 @@
+﻿@model CRUD_ASP.NET_App2.Models.UserDetails
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>UserDetails</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserLoginName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserLoginName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserFullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserFullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserEmailId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserEmailId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserMobileNo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserMobileNo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.City)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.City)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Home", "Home")
+</p>
